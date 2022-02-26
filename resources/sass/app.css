@@ -1,0 +1,5 @@
+/* Deze regel laten staan als je Tailwind CSS wilt gebruiken */
+@import "_setup.css";
+
+
+/* Hieronder kun je al je eigen CSS en SASS toevoegen, maar je kunt ook veel doen met Tailwind CSS zelf! */
