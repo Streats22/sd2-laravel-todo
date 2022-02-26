@@ -6,7 +6,7 @@ Deze periode ga je kennismaken met het Laravel PHP/MVC framework. In een paar we
 
 - [Alle user stories zijn hier te vinden](https://trello.com/b/zfaTgDLG/laravel-sd2-user-stories)
 - Je mag ook eigen user stories aandragen die nuttig zijn voor iedereen
-- Je levert een user story die afgerond is in [op deze website](https://bap-stories.mediadeveloper.amsterdam/) (eerst een account maken)
+- Je levert een user story die afgerond is in [op deze website](https://stories.softwaredeveloper.amsterdam/) (eerst een account maken)
 - De afgeronde user stories verschijnen dan onder jouw naam [op dit Trello Board](https://trello.com/b/SxQ45rQi/laravel-sd2-periode-3) 
  
 Niet alle user stories zul je af krijgen, maar de insteek is wel dat je zoveel mogelijk probeert af te maken.
@@ -16,7 +16,7 @@ Je zult dus ook veel zelf moeten uitzoeken en uitproberen (zoals van een serieuz
 
 Er is heel veel online hulp beschikbaar.
 
-- [Mediacollege BAP website met Laravel hulp](http://bap.mediadeveloper.amsterdam/md2/laravel/) (let op: wel video's van versie 7, kan soms net iets anders werken)
+- [Mediacollege BAP website met Laravel hulp](https://bap.mediadeveloper.amsterdam/md2/laravel/) (let op: wel video's van versie 7, kan soms net iets anders werken)
 - [Laravel website en documentatie](https://laravel.com/doc)
 - [Laracasts - veel video tutorials](https://laracasts.com/series/laravel-8-from-scratch)
 
