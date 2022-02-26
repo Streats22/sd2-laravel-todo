@@ -1,8 +1,8 @@
 <x-guest-layout>
-    <h1 class="text-2xl text-white mb-3">F3M7 - Laravel TODO Website</h1>
+    <h1 class="text-2xl text-white my-3">F3M7 - Laravel TODO Website</h1>
     <section class="p-4 rounded bg-white border border-gray">
         <p>
-            Dit is de start van je TODO-website in <a href="https://laravel.com/doc" target="_blank">Laravel</a>.
+            Dit is de start van je TODO-website in <a href="https://laravel.com/docs" target="_blank">Laravel</a>.
             Standaard is nu <a href="https://tailwindcss.com/docs" target="_blank">Tailwind CSS</a> geïnstalleerd.
             Ook wordt er gebruik gemaakt van SASS. De SASS bronbestanden vind je in de folder <em>resources/sass</em>
         </p>
@@ -37,4 +37,4 @@
             <li><a href="https://stories.softwaredeveloper.amsterdam">Inleveren user stories</a></li>
         </ul>
     </section>
-</x-guest-layout>>
+</x-guest-layout>

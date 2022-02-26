@@ -10,18 +10,6 @@ module.exports = {
     ],
     theme: {
         extend: {
-            colors: {
-                'transparent': 'transparent',
-                'blue': '#1fb6ff',
-                'dark-blue': '#7e5bef',
-                'pink': '#ff49db',
-                'orange': '#ff7849',
-                'green': '#13ce66',
-                'dark-green': '#0c7941',
-                'gray-dark': '#273444',
-                'gray': '#8492a6',
-                'gray-light': '#d3dce6',
-            },
             fontFamily: {
                 sans: ['Rubik', ...defaultTheme.fontFamily.sans],
                 serif: ['Merriweather', ...defaultTheme.fontFamily.serif],
