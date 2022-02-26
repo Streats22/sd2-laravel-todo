@@ -36,7 +36,7 @@
         <ul>
             <li><a href="https://trello.com/b/zfaTgDLG/laravel-sd2-user-stories">Overzicht user stories</li></li>
             <li><a href="https://trello.com/b/SxQ45rQi/laravel-sd2-periode-3">Overzicht voortgang</a></li>
-            <li><a href="https://stories.softwaredeveloper,amsterdam">Inleveren user stories</a></li>
+            <li><a href="https://stories.softwaredeveloper.amsterdam">Inleveren user stories</a></li>
         </ul>
     </section>
 
