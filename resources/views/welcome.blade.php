@@ -1,6 +1,4 @@
-@extends('layouts.app')
-
-@section('content')
+<x-guest-layout>
     <h1 class="text-2xl text-white mb-3">F3M7 - Laravel TODO Website</h1>
     <section class="p-4 rounded bg-white border border-gray">
         <p>
@@ -39,5 +37,4 @@
             <li><a href="https://stories.softwaredeveloper.amsterdam">Inleveren user stories</a></li>
         </ul>
     </section>
-
-@endsection
+</x-guest-layout>>

@@ -1,7 +1,10 @@
+const defaultTheme = require('tailwindcss/defaultTheme');
+
 module.exports = {
     content: [
+        './vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php',
         './storage/framework/views/*.php',
-        './resources/**/*.blade.php',
+        './resources/views/**/*.blade.php',
         './resources/**/*.js',
         './resources/**/*.vue',
     ],
@@ -20,8 +23,8 @@ module.exports = {
                 'gray-light': '#d3dce6',
             },
             fontFamily: {
-                sans: ['Rubik', 'sans-serif'],
-                serif: ['Merriweather', 'serif'],
+                sans: ['Rubik', ...defaultTheme.fontFamily.sans],
+                serif: ['Merriweather', ...defaultTheme.fontFamily.serif],
             },
             fontWeight: {
                 normal: 300,
@@ -31,5 +34,5 @@ module.exports = {
             }
         },
     },
-    plugins: [],
+    plugins: [require('@tailwindcss/forms')],
 }
