@@ -17,7 +17,15 @@
         <script src="{{ asset('js/app.js') }}" defer></script>
     </head>
     <body>
-    <main class="container mx-auto">
+    <div class="w-full h-1 rounded" style="background: linear-gradient(70deg, rgb(209, 250, 163) 40%, #fdff84da 100%)"> </div>
+    <main class="container mx-auto font-sans">
+        <nav class="bg-white bg-opacity-50 ">
+            <ul class="flex p-2 ">
+                <li class="pl-2"><a class="no-underline text-white uppercase" href="{{route('home') }} ">home</a></li>
+                <li class="pl-2"><a class="no-underline text-white uppercase" href="{{route('register') }} ">Register</a></li>
+                <li class="pl-2 pr-2 "><a class="no-underline text-white uppercase" href="{{route('login') }}">Login</a></li>
+            </ul>
+        </nav>
         {{ $slot }}
     </main>
     </body>

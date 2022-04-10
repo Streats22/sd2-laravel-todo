@@ -14,10 +14,10 @@ class UserSeeder extends Seeder {
      */
     public function run() {
         $user            = new User();
-        $user->firstname = "Jouw";
-        $user->lastname  = "Naam";
-        $user->email     = "ik@ma-web.nl";
-        $user->password  = Hash::make( 'geheim' );
+        $user->firstname = "Robin";
+        $user->lastname  = "Schoenmaker";
+        $user->email     = "24046@ma-web.nl";
+        $user->password  = Hash::make( 'xbseiylt' );
         $user->save();
     }
 }
